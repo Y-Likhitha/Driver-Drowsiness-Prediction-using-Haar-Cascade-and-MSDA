@@ -23,9 +23,9 @@ A real-time driver monitoring system that detects **drowsiness** and nearby **ob
 - `gTTS`
 
 📦 Install all dependencies:
-
-bash
 pip install opencv-python numpy pygame gTTS
+
+
 ## 🔗 Download Required Files
 
 This project requires large files that are not stored in the repository due to GitHub size limits.
