@@ -11,6 +11,9 @@ A real-time driver monitoring system that detects **drowsiness** and nearby **ob
 - 🎯 **YOLOv4-Tiny** for fast object detection
 - 🔊 **Voice Alerts** using `gTTS` and `pygame`
 - 🎥 **Dual Camera Setup** — internal for driver, external for surroundings
+  - **Internal Camera** for driver monitoring  
+  - **External Camera** for obstacle & pedestrian detection  
+  - 📱 Supports **DroidCam** as an external camera source
 
 ---
 
@@ -32,7 +35,7 @@ This project requires large files that are not stored in the repository due to G
 
 Please download the following manually from Google Drive:
 
-➡️ [Download Weights](https://drive.google.com/drive/folders/1ACHpGLPvmv-3LK71tVsvh71_pcRG0NCo?usp=sharing)
+➡️ [Download YOLOv4-Tiny Weights & Config](https://drive.google.com/drive/folders/1ACHpGLPvmv-3LK71tVsvh71_pcRG0NCo?usp=sharing)
 ➡️ [Download Dataset](https://drive.google.com/drive/folders/1yU7N33xs394ED3IjRl3WU8EGubprpWXB?usp=sharing)
 
 **After downloading**, place them in the appropriate folders:
