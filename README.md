@@ -26,4 +26,19 @@ A real-time driver monitoring system that detects **drowsiness** and nearby **ob
 
 ```bash
 pip install opencv-python numpy pygame gTTS
+## 🔗 Download Required Files
 
+This project requires large files that are not stored in the repository due to GitHub size limits.
+
+Please download the following manually from Google Drive:
+
+➡️ [Download Weights](https://drive.google.com/drive/folders/1ACHpGLPvmv-3LK71tVsvh71_pcRG0NCo?usp=sharing)
+➡️ [Download Dataset](https://drive.google.com/drive/folders/1yU7N33xs394ED3IjRl3WU8EGubprpWXB?usp=sharing)
+
+**After downloading**, place them in the appropriate folders:
+
+- `yolov4.weights` → `yolo/`
+- Dataset folders → `Dataset/`
+- Audio files → `alarm/`
+
+Then, you're ready to run the project! 🚀
